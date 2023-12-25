@@ -1,0 +1,22 @@
+{
+  "name": "@heberpedro/prettier-config",
+  "version": "1.0.1",
+  "description": "Prettier Config",
+  "author": "Heber Pedro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heberpedro/eslint-prettier-config.git"
+  },
+  "license": "MIT",
+  "main": "./prettier-config.json",
+  "peerDependencies": {
+    "prettier": "^3.1.1"
+  },
+  "keywords": [
+    "lint",
+    "eslint",
+    "prettier",
+    "config",
+    "heberpedro"
+  ]
+}
