@@ -1,6 +1,6 @@
 {
   "name": "@heberpedro/eslint-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "ESLint Config",
   "author": "Heber Pedro",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "https://github.com/heberpedro/eslint-prettier-config.git"
   },
   "license": "MIT",
-  "main": "./eslint-config.json",
+  "main": "./index.js",
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^6.15.0",
     "@typescript-eslint/parser": "^6.15.0",
